@@ -158,6 +158,7 @@ ul li a:hover {
 }
 
 .titulo__habilidades {
+    font-family: "Poppins", sans-serif;
     font-weight: 30;
 } 
 
@@ -322,6 +323,7 @@ ul li a:hover {
 }
 
 .titulo__projetos {
+    font-family: "Poppins", sans-serif;
     font-size: 2rem;
     padding-top: 10rem;
     text-align: center;
